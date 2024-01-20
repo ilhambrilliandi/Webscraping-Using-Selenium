@@ -1,7 +1,15 @@
-# webscraping_using_selenium
+# Webscraping Using Selenium
 
 ```
-This code is running fixed url:
+This code is gaining information about:
+- manufacturer
+- model
+- price
+- vehicle chassis
+```
+
+```
+This code is running fixed url below:
 ```
 
 https://www.anwb.nl/auto/private-lease/anwb-private-lease/aanbod
